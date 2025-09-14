@@ -40,6 +40,9 @@ Click the "Deploy to Render" button above.
 4. Connect your forked repository
 5. Render will automatically detect the `render.yaml` configuration
 
+### Option 3: Nixpacks Deployment
+This repository is configured to work with nixpacks out of the box. The `nixpacks.toml` file contains the proper configuration for web deployment.
+
 Your server will be available at `https://your-service-name.onrender.com/mcp` (NOTE THE `/mcp`!)
 
 ## Poke Setup
