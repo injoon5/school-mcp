@@ -1,0 +1,2 @@
+[start]
+cmd = "fastmcp run src/server.py"
